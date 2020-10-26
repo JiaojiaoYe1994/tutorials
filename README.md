@@ -6,4 +6,5 @@ Table of contents
 
 * Python
     * Multiprocess and thread
+    * Scipy
 * PyTorch
