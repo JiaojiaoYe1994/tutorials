@@ -16,6 +16,7 @@ import json
 text ="当前，{AE}市、{J}市受资金、土地、能耗等发展要素的制约，{CC}建设重大项目出现招引难、落地难问题。"
 label_list = ["{AI}", "{CC}", "{AE}"]
 
+
 class ExtractLocations():
     def __init__(self, label_list):
         self.label_list =  label_list
